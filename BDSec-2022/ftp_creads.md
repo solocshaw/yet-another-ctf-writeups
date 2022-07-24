@@ -6,11 +6,15 @@ Flag Format : BDSEC{username_password}
 
 ### Solution:
 
-This is a continuation of the Victim & Attacker challenge and uses the same `capture.pcapng` file. 
+This is a continuation of the [Victim & Attacker challenge](victim_attacker.md) and uses the same `capture.pcapng` file. See file [here](attachments). 
 
 If we filter for FTP traffic we see a number of unsuccessful login attempts. Eventually we'll see a successful one.
 
+![](wireshark-ftp-creads.png)
+
 We can follow the TCP stream:
+
+![](wireshark-ftp-creads-follow-stream.png)
 
 ```
 220 (vsFTPd 3.0.3)
@@ -100,7 +104,7 @@ QUIT
 221 Goodbye.
 ```
 
-We can also filter the above to show only the client's requests:
+We can also filter the above to show only the client's requests (shown in red):
 
 ```
 USER ftpadmin	.
