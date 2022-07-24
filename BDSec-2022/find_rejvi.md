@@ -36,7 +36,7 @@ sfp_accounts       Account on External Site  Telegram (Category: social)
 
 ```
 
-One of the above accounts contains a post that will lead us to our flag.
+One of the above accounts contains a post that will lead us to our flag. 
 
 <details>
   <summary>Click to see flag</summary> 
