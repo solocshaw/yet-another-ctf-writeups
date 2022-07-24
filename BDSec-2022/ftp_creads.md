@@ -104,7 +104,7 @@ QUIT
 221 Goodbye.
 ```
 
-We can also filter the above to show only the client's requests (shown in red):
+We can also filter the above to show only the client's requests (shown in red above):
 
 ```
 USER ftpadmin	.
