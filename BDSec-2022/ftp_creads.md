@@ -10,11 +10,11 @@ This is a continuation of the [Victim & Attacker challenge](victim_attacker.md) 
 
 If we filter for FTP traffic we see a number of unsuccessful login attempts. Eventually we'll see a successful one.
 
-![](wireshark-ftp-creads.png)
+![](img/wireshark-ftp-creads.png)
 
 We can follow the TCP stream:
 
-![](wireshark-ftp-creads-follow-stream.png)
+![](img/wireshark-ftp-creads-follow-stream.png)
 
 ```
 220 (vsFTPd 3.0.3)
