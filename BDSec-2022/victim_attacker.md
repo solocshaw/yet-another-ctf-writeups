@@ -10,7 +10,7 @@ Flag Format: BDSEC{0.0.0.0_127.0.0.1}
 
 ### Solution:
 
-Looking at our [capture.pcapng](attachments/capture.pcapng) file we can filter by FTP traffic noticing a number of login attempts to a FTP server. We can follow the TCP and filter to show the server's responses to the attacker. 
+Looking at our [capture.pcapng](attachments/capture.pcapng) file we can filter by FTP traffic noticing a number of login attempts to a FTP server. Here we'll follow the TCP stream and show the server's responses. 
 
 ![](img/wireshark-follow-stream.png)
 
