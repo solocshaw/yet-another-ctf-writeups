@@ -6,7 +6,7 @@ Flag Format : BDSEC{secretKey}
 
 ### Solution
 
-Looking at the [capture.pcapng](attachments/capture.pcapng) we will find that the attacker was able to access a mySQL server and navigate to the database `secret` to a table containing our secret key:
+Looking at the [capture.pcapng](attachments/capture.pcapng) we will find that the attacker was able to log in to a mySQL server and reference a table containing our key from the database `secret`:
 
 ``` mysql
 mysql> show tables;
