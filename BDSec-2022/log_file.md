@@ -15,7 +15,7 @@ Flag Format : BDSEC{something.log}
 
 ### Solution
 
-Filtering our [packet capture file](attachments/capture.pcapng) for FTP traffic we see the name of log file. Submitting our flag with the as-is name of `dnNmdHBk.log` gives an incorrect result. 
+Filtering our [packet capture file](attachments/capture.pcapng) for FTP traffic we see the name of a log file. Submitting our flag with the as-is name of `dnNmdHBk.log` gives an incorrect result. 
 
 ![](img/wireshark-ftp-log.png)
 
