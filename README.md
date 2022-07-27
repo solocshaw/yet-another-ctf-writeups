@@ -23,6 +23,9 @@
 
 BDSec 2022: https://ctftime.org/event/1699
 
+<details>
+  <summary>Challenges</summary> 
+
 - Category: Networking
     - [Victim Attacker](BDSec-2022/victim_attacker.md)
     - [Which FTP?](BDSec-2022/which_ftp.md)
@@ -37,7 +40,31 @@ BDSec 2022: https://ctftime.org/event/1699
 
 - Category: Cryptography
     - [Crypto](BDSec-2022/crypto.md)
+    - [VIPx01](BDSec-2022/vipx01.md)
+    - [VIPx02](BDSec-2022/vipx02.md)
     - [Fake](BDSec-2022/fake.md)
+    - [Dominoes](BDSec-2022/dominoes.md)
 
+</details>
+
+<br />
+
+MCH2022-CTF https://ctftime.org/event/1696/
+
+<details>
+  <summary>Challenges</summary> 
+
+- Category: Networking
+    - [My First PCAP](MCH2022-CTF/my_first_pcap.md)
+
+- Category: Binary
+    - [For Aiur](MCH2022-CTF/for_aiur.md)
+
+- Category: Forensics
+    - [Extensions](MCH2022-CTF/extensions.md)
+
+- Category: Misc
+    - [Wholly Pwned Appliances](MCH2022-CTF/wholly_pwned_appliances.md)
+</details>
 
 ![](https://pbs.twimg.com/media/EcWv_-1XsAAIbeL?format=jpg&name=large)
