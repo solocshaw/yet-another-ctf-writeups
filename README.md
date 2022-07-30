@@ -21,7 +21,7 @@
 
 ### CTFs:
 
-### BDSec 2022 https://ctftime.org/event/1699
+BDSec 2022 https://ctftime.org/event/1699
 
 <details>
   <summary>Challenges</summary> 
@@ -51,7 +51,7 @@
 
 <br />
 
-### MCH2022-CTF https://ctftime.org/event/1696/
+MCH2022-CTF https://ctftime.org/event/1696/
 
 <details>
   <summary>Challenges</summary> 
@@ -67,6 +67,33 @@
 -->
 - Category: Misc
     - [For Starters](MCH2022-CTF/for_starters.md)
+</details>
+
+<br />
+
+<!--
+UIUCTF-2022 
+
+<details>
+  <summary>Challenges</summary> 
+
+- Category: OSINT
+    - [Everyone's A Critic 1](UIUCTF-2022/everyones_a_critic_1.md)
+    - [Everyone's A Critic 2](UIUCTF-2022/everyones_a_critic_2.md)
+
+</details>
+
+<br />
+-->
+
+UACTF-2022 
+
+<details>
+  <summary>Challenges</summary> 
+
+- Category: reversing
+    - [Sanity Check](UACTF-2022/sanity_check.md)
+
 </details>
 
 ![](https://pbs.twimg.com/media/EcWv_-1XsAAIbeL?format=jpg&name=large)
