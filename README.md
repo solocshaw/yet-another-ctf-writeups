@@ -96,4 +96,16 @@ UACTF-2022
 
 </details>
 
+<br />
+
+RACTF-2022 
+
+<details>
+  <summary>Challenges</summary> 
+
+- Category: OSINT
+    - [Travel Japan](RACTF-2022/travel_japan.md)
+
+</details>
+
 ![](https://pbs.twimg.com/media/EcWv_-1XsAAIbeL?format=jpg&name=large)
