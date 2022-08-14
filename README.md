@@ -106,6 +106,9 @@ RACTF-2022
 - Category: OSINT
     - [Travel Japan](RACTF-2022/travel_japan.md)
 
+- Category: Crypto
+    - [French](RACTF-2022/french.md)
+
 </details>
 
 ![](https://pbs.twimg.com/media/EcWv_-1XsAAIbeL?format=jpg&name=large)
