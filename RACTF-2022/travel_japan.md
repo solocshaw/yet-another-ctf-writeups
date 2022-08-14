@@ -24,10 +24,13 @@ The 300 Years of Creation
 
 What can we find by searching for `Naritasan Fukagawa`?
 
+![](img/fukagawa-google-search-results.png)
+
 ![](img/xarea027_04.jpg.pagespeed.ic.FHAnXf0P_z.jfif)
+
 Image from https://www.gotokyo.org/en/destinations/eastern-tokyo/fukagawa/index.html
 
-From the above image we notice identical flags and pillar decorations. 
+From the above image we notice identical banners and pillar decorations. We learn from the results of our search that this is the Fukagawa-Fudo-son located in Kōtō, Tokyo. 
 
 More information about the temple and the area can be found here:
 
