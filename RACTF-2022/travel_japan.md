@@ -30,7 +30,7 @@ What can we find by searching for `Naritasan Fukagawa`?
 
 Image from https://www.gotokyo.org/en/destinations/eastern-tokyo/fukagawa/index.html
 
-From the above image we notice identical banners and pillar decorations. We learn from the results of our search that this is the Fukagawa-Fudo-son located in Kōtō, Tokyo. 
+From the above image we notice identical banners and pillar decorations. We learn from the results of our search that this is the Fukagawa Fudo-son located in Kōtō, Tokyo. 
 
 More information about the temple and the area can be found here:
 
