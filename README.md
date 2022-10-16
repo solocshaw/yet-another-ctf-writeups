@@ -111,4 +111,33 @@ RACTF-2022
 
 </details>
 
+<br />
+
+<!-- MapleCTF-2022 
+
+<details>
+  <summary>Challenges</summary> 
+
+- Category: 
+
+- Category: 
+
+</details>
+
+<br /> -->
+
+WRECKCTF-2022
+
+<details>
+  <summary>Challenges</summary> 
+
+- Category: Cryptography
+  - [Spin](WRECKCTF/spin.md)
+
+<!-- - Category:  -->
+
+</details>
+
+<br />
+
 ![](https://pbs.twimg.com/media/EcWv_-1XsAAIbeL?format=jpg&name=large)
