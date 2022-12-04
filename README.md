@@ -32,26 +32,26 @@ BDSec 2022 https://ctftime.org/event/1699
   <summary>Challenges</summary> 
 
 - Category: Networking
-    - [Victim Attacker](BDSec-2022/victim_attacker.md)
-    - [Which FTP?](BDSec-2022/which_ftp.md)
-    - [FTP Creads](BDSec-2022/ftp_creads.md)
-    - [Uploaded File](BDSec-2022/uploaded_file.md)
-    - [Log File](BDSec-2022/log_file.md)
-    - [Administrator](BDSec-2022/adminstrator.md)
-    - [Secret Key](BDSec-2022/secret_key.md)
+    - [Victim Attacker](2022/BDSec-2022/victim_attacker.md)
+    - [Which FTP?](2022/BDSec-2022/which_ftp.md)
+    - [FTP Creads](2022/BDSec-2022/ftp_creads.md)
+    - [Uploaded File](2022/BDSec-2022/uploaded_file.md)
+    - [Log File](2022/BDSec-2022/log_file.md)
+    - [Administrator](2022/BDSec-2022/adminstrator.md)
+    - [Secret Key](2022/BDSec-2022/secret_key.md)
 
 - Category: OSINT
-    - [Find Rejvi](BDSec-2022/find_rejvi.md)
+    - [Find Rejvi](2022/BDSec-2022/find_rejvi.md)
 
 - Category: Cryptography
-    - [Crypto](BDSec-2022/crypto.md)
-    - [VIPx01](BDSec-2022/vipx01.md)
+    - [Crypto](2022/BDSec-2022/crypto.md)
+    - [VIPx01](2022/BDSec-2022/vipx01.md)
     <!--
-    - [VIPx02](BDSec-2022/vipx02.md)
-    - [Fake](BDSec-2022/fake.md)
-    - [Dominoes](BDSec-2022/dominoes.md) 
+    - [VIPx02](2022/BDSec-2022/vipx02.md)
+    - [Fake](2022/BDSec-2022/fake.md)
+    - [Dominoes](2022/BDSec-2022/dominoes.md) 
     -->
-    - [Basically RSA](BDSec-2022/basically_rsa.md)
+    - [Basically RSA](2022/BDSec-2022/basically_rsa.md)
 </details>
 
 <br />
@@ -65,13 +65,13 @@ MCH2022-CTF https://ctftime.org/event/1696/
     - [My First PCAP](MCH2022-CTF/my_first_pcap.md)
 <!--
 - Category: Binary
-    - [For Aiur](MCH2022-CTF/for_aiur.md)
+    - [For Aiur](2022/MCH2022-CTF/for_aiur.md)
 
 - Category: Forensics
-    - [Extensions](MCH2022-CTF/extensions.md)
+    - [Extensions](2022/MCH2022-CTF/extensions.md)
 -->
 - Category: Misc
-    - [For Starters](MCH2022-CTF/for_starters.md)
+    - [For Starters](2022/MCH2022-CTF/for_starters.md)
 </details>
 
 <br />
@@ -83,8 +83,8 @@ UIUCTF-2022
   <summary>Challenges</summary> 
 
 - Category: OSINT
-    - [Everyone's A Critic 1](UIUCTF-2022/everyones_a_critic_1.md)
-    - [Everyone's A Critic 2](UIUCTF-2022/everyones_a_critic_2.md)
+    - [Everyone's A Critic 1](2022/UIUCTF-2022/everyones_a_critic_1.md)
+    - [Everyone's A Critic 2](2022/UIUCTF-2022/everyones_a_critic_2.md)
 
 </details>
 
@@ -97,10 +97,10 @@ UACTF-2022
   <summary>Challenges</summary> 
 
 - Category: Reversing
-    - [Sanity Check](UACTF-2022/sanity_check.md)
+    - [Sanity Check](2022/UACTF-2022/sanity_check.md)
 
 - Category: Crypto
-    - [Peter Works at Bendigo](UACTF-2022/peter_works_at_bendigo.md)
+    - [Peter Works at Bendigo](2022/UACTF-2022/peter_works_at_bendigo.md)
 
 </details>
 
@@ -112,10 +112,10 @@ RACTF-2022
   <summary>Challenges</summary> 
 
 - Category: OSINT
-    - [Travel Japan](RACTF-2022/travel_japan.md)
+    - [Travel Japan](2022/RACTF-2022/travel_japan.md)
 
 - Category: Crypto
-    - [French](RACTF-2022/french.md)
+    - [French](2022/RACTF-2022/french.md)
 
 </details>
 
@@ -140,8 +140,8 @@ WRECKCTF-2022
   <summary>Challenges</summary> 
 
 - Category: Cryptography
-  - [Spin](WRECKCTF/spin.md)
-  - [Baby RSA](WRECKCTF/baby-rsa.md)
+  - [Spin](2022/WRECKCTF/spin.md)
+  - [Baby RSA](2022/WRECKCTF/baby-rsa.md)
 
 <!-- - Category:  -->
 
@@ -155,8 +155,8 @@ Security Valley 2022
   <summary>Challenges</summary> 
 
 - Category: Cryptography
-  - [French](SV-CTF-2022/french.md)
-  - [Capture Message](SV-CTF-2022/capture-message.md)
+  - [French](2022/SV-CTF-2022/french.md)
+  - [Capture Message](2022/SV-CTF-2022/capture-message.md)
 
 </details>
 
@@ -181,6 +181,8 @@ Security Valley 2022
       margin: -60px 0 -63px 0;
   }
 </style> -->
+
+<!-- Could not render the above above banner. See: https://github.com/orgs/community/discussions/22728 -->
 
 <details>
   <summary>2023</summary> 
