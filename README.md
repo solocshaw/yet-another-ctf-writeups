@@ -168,7 +168,7 @@ Security Valley 2022
 
 <!------- 2023 ------->
 
-<div class="banner">
+<!-- <div class="banner">
   <img src="https://i.stack.imgur.com/wVfnh.jpg" />
 </div>
 
@@ -180,7 +180,7 @@ Security Valley 2022
   .banner img {
       margin: -60px 0 -63px 0;
   }
-</style>
+</style> -->
 
 <details>
   <summary>2023</summary> 
