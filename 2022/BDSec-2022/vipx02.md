@@ -10,11 +10,13 @@ Flag Format : BDSEC{s0m3thing_here}
 
 ### Solution
 
-The password is encoded using the twin-hex cipher to give us the following: 
+The username serves as a hint as to how the passowrd is encoded. 
+
+The password is encoded using the Twin-Hex cipher. We'll use the following site to decode: https://www.calcresult.com/misc/cyphers/twin-hex.html
 
 ![The image shows the website calcresult.com and the results we got from decoding the password. https://www.calcresult.com/misc/cyphers/twin-hex.html also gives an explanation of the Twin-Hex cipher.](img/twin-hex.png)
 
-We can decode `OQFRP{pelcg0_ne3_nj3f0z3_&_gel_g0_1rnea_pelcg0} ` using ROT13 to get our flag.
+We can decode `OQFRP{pelcg0_ne3_nj3f0z3_&_gel_g0_1rnea_pelcg0}` using ROT13 to get our flag.
 
 ![The image shows cyberchef.org and the resulting output after decoding our text using ROT13.](img/rot13.png)
 
