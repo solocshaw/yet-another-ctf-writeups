@@ -46,8 +46,8 @@ BDSec 2022 https://ctftime.org/event/1699
 - Category: Cryptography
     - [Crypto](2022/BDSec-2022/crypto.md)
     - [VIPx01](2022/BDSec-2022/vipx01.md)
-    <!--
     - [VIPx02](2022/BDSec-2022/vipx02.md)
+    <!--
     - [Fake](2022/BDSec-2022/fake.md)
     - [Dominoes](2022/BDSec-2022/dominoes.md) 
     -->
