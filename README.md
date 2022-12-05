@@ -162,6 +162,23 @@ Security Valley 2022
 
 <br />
 
+TUCTF-2022
+
+<details>
+  <summary>Challenges</summary> 
+
+- Category: Cryptography
+  - [More Effort](2022/TUCTF-2022/more-effort.md)
+  - [A Sheep Over Fence](2022/TUCTF-2022/a-sheep-jump-over-fence.md)
+
+- Category: Forensics
+  - [Secret Kitteh](2022/TUCTF-2022/secret-kitteh.md)
+  - [Kraken](2022/TUCTF-2022/kraken.md)
+
+</details>
+
+<br />
+
 </details>
 
 <br />
