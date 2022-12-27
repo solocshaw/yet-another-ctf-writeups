@@ -26,7 +26,8 @@
 
 <br />
 
-BDSec 2022 https://ctftime.org/event/1699
+---
+BDSec 2022 | https://ctftime.org/event/1699
 
 <details>
   <summary>Challenges</summary> 
@@ -56,7 +57,8 @@ BDSec 2022 https://ctftime.org/event/1699
 
 <br />
 
-MCH2022-CTF https://ctftime.org/event/1696/
+---
+MCH2022-CTF | https://ctftime.org/event/1696/
 
 <details>
   <summary>Challenges</summary> 
@@ -77,7 +79,8 @@ MCH2022-CTF https://ctftime.org/event/1696/
 <br />
 
 <!--
-UIUCTF-2022 
+---
+UIUCTF-2022 | https://ctftime.org/event/1600/
 
 <details>
   <summary>Challenges</summary> 
@@ -90,8 +93,8 @@ UIUCTF-2022
 
 <br />
 -->
-
-UACTF-2022 
+---
+UACTF-2022 | https://ctftime.org/event/1638/
 
 <details>
   <summary>Challenges</summary> 
@@ -106,7 +109,8 @@ UACTF-2022
 
 <br />
 
-RACTF-2022 
+---
+RACTF-2022 | https://ctftime.org/event/1678/
 
 <details>
   <summary>Challenges</summary> 
@@ -121,7 +125,9 @@ RACTF-2022
 
 <br />
 
-<!-- MapleCTF-2022 
+<!-- 
+---
+MapleCTF-2022 | https://ctftime.org/event/1676
 
 <details>
   <summary>Challenges</summary> 
@@ -134,7 +140,8 @@ RACTF-2022
 
 <br /> -->
 
-WRECKCTF-2022
+---
+WRECKCTF-2022 | https://ctftime.org/event/1775/
 
 <details>
   <summary>Challenges</summary> 
@@ -149,7 +156,8 @@ WRECKCTF-2022
 
 <br />
 
-Security Valley 2022
+---
+Security Valley 2022 | https://ctftime.org/event/1799
 
 <details>
   <summary>Challenges</summary> 
@@ -162,7 +170,8 @@ Security Valley 2022
 
 <br />
 
-TUCTF-2022
+---
+TUCTF-2022 | https://ctftime.org/event/1830/
 
 <details>
   <summary>Challenges</summary> 
@@ -179,11 +188,38 @@ TUCTF-2022
 
 <br />
 
+---
+XMAS CTF 2022 | https://ctftime.org/event/1787
+
+<details>
+  <summary>Challenges</summary> 
+
+- Category: Binary Exploitation
+  - [Santa's Complaint Hotline](2022/XMAS-CTF-202/santas-complaint-hotline.md)
+
+- Category: Cryptography
+  - [Strange Circles](2022/XMAS-CTF-202/strange_circles.md)
+
+
+- Category: Reverse Engineering
+  - [Gimi's Wonderland](2022/XMAS-CTF-202/gimis-wonderland.md)
+  - [Don't Trust Snakes](2022/XMAS-CTF-202/dont-trust-snakes.md)
+  - [Presents?](2022/XMAS-CTF-202/presents.md)
+
+- Category: Misc
+  - [Manipulated Christmas](2022/XMAS-CTF-202/manipulated-christmas.md)
+
 </details>
 
 <br />
 
-<!------- 2023 ------->
+</details>
+
+<br />
+
+<!------- End of 2022 Banner ------->
+
+<!-- ![](https://static.wikia.nocookie.net/matrix/images/8/87/Asleep_at_computer-0.png/revision/latest/scale-to-width-down/1000?cb=20181025033637) -->
 
 <!-- <div class="banner">
   <img src="https://i.stack.imgur.com/wVfnh.jpg" />
@@ -199,7 +235,7 @@ TUCTF-2022
   }
 </style> -->
 
-<!-- Could not render the above above banner. See: https://github.com/orgs/community/discussions/22728 -->
+<!-- Could not render the above above banner in GitHub Markdown. See: https://github.com/orgs/community/discussions/22728 -->
 
 <details>
   <summary>2023</summary> 
