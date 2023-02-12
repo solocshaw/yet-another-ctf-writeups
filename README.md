@@ -19,6 +19,8 @@
 
 ![](https://thumbs.gfycat.com/SoreWhisperedAmericantoad-max-1mb.gif)
 
+*(This is a work in progress. Some challenges may not have solutions.)*
+
 ### CTFs:
 
 <details>
@@ -237,8 +239,33 @@ XMAS CTF 2022 | https://ctftime.org/event/1787
 
 <!-- Could not render the above above banner in GitHub Markdown. See: https://github.com/orgs/community/discussions/22728 -->
 
+---
+
 <details>
   <summary>2023</summary> 
+
+<br />
+
+LACTF-2023 | https://ctftime.org/event/1732
+
+<details>
+  <summary>Challenges</summary> 
+
+- Category: Misc
+    - [CATS!](2023/LACTF-2023/cats.md)
+    - [EBE](2023/LACTF-2023/EBE.md)
+    - [Hike to Where?](2023/LACTF-2023/hike-to-where.md)
+
+- Category: Crypto
+    - [One More Time Pad](2023/LACTF-2023/one-more-time-pad.md)
+    - [Rolling in the Mud](2023/LACTF-2023/rolling-in-the-mud.md)
+    - [Ravin Cryptosystem](2023/LACTF-2023/ravin-cryptosystem.md)
+
+- Category: Rev
+    - [Caterpillar](2023/LACTF-2023/caterpillar.md)
+
+
+</details>
 
 <br />
 
