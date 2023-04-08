@@ -239,6 +239,8 @@ XMAS CTF 2022 | https://ctftime.org/event/1787
 
 <!-- Could not render the above above banner in GitHub Markdown. See: https://github.com/orgs/community/discussions/22728 -->
 
+![Alt text](https://i.kym-cdn.com/photos/images/original/001/339/785/269.jpg)
+
 ---
 
 <details>
@@ -265,6 +267,48 @@ LACTF-2023 | https://ctftime.org/event/1732
     - [Caterpillar](2023/LACTF-2023/caterpillar.md)
 
 
+</details>
+
+<br />
+
+Trellix Hax 2023 | https://ctftime.org/event/1882
+
+<details>
+  <summary>Challenges</summary> 
+
+- Category: Web
+    - [We Need to Break Free](2023/Trellix-Hax-2023/we-need-to-break-free.md)
+
+- Category: Reversing
+    - [Spying Through the Web Door](2023/Trellix-Hax-2023/spying-through-the-webdoor.md)
+
+</details>
+
+<br />
+
+<!-- UTCTF 2023 | https://ctftime.org/event/1919
+
+<details>
+  <summary>Challenges</summary> 
+
+- Category: 
+    - placeholder
+
+- Category: 
+    - placeholder
+
+</details>
+
+<br /> -->
+
+cursedCTF 2023 | https://ctftime.org/event/1887
+
+<details>
+  <summary>Challenges</summary> 
+
+- Category: OSINT
+    - [im alone im alone im alone im alone weed weed weed](2023/cursedCTF-2023/im-alone-im-alone-im-alone-im-alone-weed-weed-weed.md)
+    
 </details>
 
 <br />
