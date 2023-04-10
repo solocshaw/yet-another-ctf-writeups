@@ -308,6 +308,10 @@ cursedCTF 2023 | https://ctftime.org/event/1887
 
 - Category: OSINT
     - [im alone im alone im alone im alone weed weed weed](2023/cursedCTF-2023/im-alone-im-alone-im-alone-im-alone-weed-weed-weed.md)
+- Category: Crypto 
+    - [Find the Paper](2023/cursedCTF-2023/find-the-paper.md)
+- Category: Reversing
+    - 
     
 </details>
 
