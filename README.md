@@ -15,8 +15,6 @@
 ---------------------------------------------------
 ```
 
-> *It certainly does suck*
-
 ![](https://thumbs.gfycat.com/SoreWhisperedAmericantoad-max-1mb.gif)
 
 *(This is a work in progress. Some challenges may not have solutions.)*
